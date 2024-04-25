@@ -68,3 +68,5 @@
             <h1>よくあるご質問</h1>
 
         </section>
+<?php get_footer() ;?>
+    
