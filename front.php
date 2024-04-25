@@ -1,4 +1,4 @@
-<?php get_header() ;?>
+<?php get_header(); ?>
 
         <!------------------------------- 
             hero
@@ -68,5 +68,5 @@
             <h1>よくあるご質問</h1>
 
         </section>
-<?php get_footer() ;?>
+<?php get_footer(); ?>
     
